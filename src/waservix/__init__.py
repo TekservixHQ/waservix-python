@@ -10,7 +10,7 @@ import urllib.parse
 import urllib.request
 
 __all__ = ["WAservix", "WAservixError", "verify_webhook"]
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 DEFAULT_BASE_URL = "https://tekservix.com/waservix/api"
 
