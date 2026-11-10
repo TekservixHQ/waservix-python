@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "waservix"
-version = "1.0.0"
+version = "1.0.1"
 description = "Official Python client for the WAservix WhatsApp API Gateway: send WhatsApp messages, images and documents from your own number, with status tracking and webhooks."
 readme = "README.md"
 license = "MIT"
@@ -23,5 +23,5 @@ classifiers = [
 [project.urls]
 Homepage = "https://tekservix.com/waservix/"
 Documentation = "https://tekservix.com/waservix/docs/"
-Source = "https://github.com/ellyj164/waservix-python"
-Issues = "https://github.com/ellyj164/waservix-python/issues"
+Source = "https://github.com/tekservixhq/waservix-python"
+Issues = "https://github.com/tekservixhq/waservix-python/issues"
