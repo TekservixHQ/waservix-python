@@ -4,14 +4,14 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "waservix"
-version = "1.0.1"
-description = "Official Python client for the WAservix WhatsApp API Gateway: send WhatsApp messages, images and documents from your own number, with status tracking and webhooks."
+version = "1.0.2"
+description = "WAservix WhatsApp API Gateway: official Python client by Tekservix. Send WhatsApp messages, images and documents from your own number, with status tracking and webhooks."
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 authors = [{ name = "Tekservix", email = "support@tekservix.com" }]
 requires-python = ">=3.8"
-keywords = ["whatsapp", "whatsapp-api", "whatsapp-gateway", "whatsapp-bot", "send-whatsapp", "messaging", "webhook", "wasender", "waservix", "tekservix"]
+keywords = ["whatsapp", "whatsapp-api-gateway", "whatsapp-api", "whatsapp-gateway", "whatsapp-bot", "send-whatsapp", "messaging", "webhook", "wasender", "waservix", "tekservix"]
 classifiers = [
   "Programming Language :: Python :: 3",
   "Operating System :: OS Independent",
