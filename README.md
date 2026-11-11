@@ -1,5 +1,7 @@
 # waservix
 
+**WAservix WhatsApp API Gateway** - official Python client: send WhatsApp messages from your own number. By Tekservix.
+
 Python client for the [WAservix WhatsApp API Gateway](https://tekservix.com/waservix/).
 
 WAservix links your own WhatsApp number by QR code (the same way WhatsApp Web does) and gives you a REST API to send text, images, video, audio, documents, locations, polls and more, with webhooks for incoming messages and status updates.
